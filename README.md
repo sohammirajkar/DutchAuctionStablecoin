@@ -1,11 +1,10 @@
-Sure! Here is a comprehensive `README.md` file that provides step-by-step instructions on setting up and running the project.
 
-```markdown
 # Dutch Auction Stablecoin
 
 This project implements a decentralized exchange (DEX) for a stablecoin that uses Dutch auctions. The backend is built with Scala and the smart contracts are written in Vyper. The project also uses Slick for database interaction with PostgreSQL.
 
 ## Table of Contents
+
 1. [Prerequisites](#prerequisites)
 2. [Setup](#setup)
 3. [Building the Project](#building-the-project)
@@ -195,13 +194,3 @@ project-root/
 │       └── scala/
 │           └── AuctionManagerSpec.scala
 ```
-
-## Contact
-
-For any issues or inquiries, please contact [your-email@example.com].
-
-```
-
-### Summary
-
-This `README.md` file provides a comprehensive step-by-step guide to setting up, building, and running the Dutch Auction Stablecoin project. It includes prerequisites, setup instructions, detailed steps for configuring and running the project, and guidance on writing and running tests.
